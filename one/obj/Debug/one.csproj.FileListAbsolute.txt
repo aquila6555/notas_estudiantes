@@ -1,0 +1,17 @@
+c:\users\jd\documents\visual studio 2015\Projects\one\one\bin\Debug\one.exe.config
+c:\users\jd\documents\visual studio 2015\Projects\one\one\bin\Debug\one.exe
+c:\users\jd\documents\visual studio 2015\Projects\one\one\bin\Debug\one.pdb
+c:\users\jd\documents\visual studio 2015\Projects\one\one\bin\Debug\DevComponents.DotNetBar2.dll
+c:\users\jd\documents\visual studio 2015\Projects\one\one\bin\Debug\MaterialSkin.dll
+c:\users\jd\documents\visual studio 2015\Projects\one\one\bin\Debug\MetroFramework.Design.dll
+c:\users\jd\documents\visual studio 2015\Projects\one\one\bin\Debug\MetroFramework.dll
+c:\users\jd\documents\visual studio 2015\Projects\one\one\bin\Debug\MetroFramework.Fonts.dll
+c:\users\jd\documents\visual studio 2015\Projects\one\one\bin\Debug\MetroSuite.dll
+c:\users\jd\documents\visual studio 2015\Projects\one\one\bin\Debug\MaterialSkin.pdb
+c:\users\jd\documents\visual studio 2015\Projects\one\one\obj\Debug\one.csprojResolveAssemblyReference.cache
+c:\users\jd\documents\visual studio 2015\Projects\one\one\obj\Debug\one.Form1.resources
+c:\users\jd\documents\visual studio 2015\Projects\one\one\obj\Debug\one.Properties.Resources.resources
+c:\users\jd\documents\visual studio 2015\Projects\one\one\obj\Debug\one.csproj.GenerateResource.Cache
+c:\users\jd\documents\visual studio 2015\Projects\one\one\obj\Debug\one.exe
+c:\users\jd\documents\visual studio 2015\Projects\one\one\obj\Debug\one.pdb
+C:\Users\JD\documents\visual studio 2015\Projects\one\one\obj\Debug\one.Form2.resources
